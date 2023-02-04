@@ -4,67 +4,58 @@
 
 Hi there 👋
 
-<!--
-**wky0211/wky0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## About Me
 
 - Hong Konger
 - Student
 
 ## Languages
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 
-<a href="https://www.python.org" target="_blank">
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-</a>
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<br/>
+## Frameworks and Libraries
+![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)
+![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)
+![aiohttp](https://img.shields.io/badge/aiohttp-black?style=for-the-badge)
+![httpx](https://img.shields.io/badge/httpx-black?style=for-the-badge)
+![pydantic](https://img.shields.io/badge/pydantic-black?style=for-the-badge)
+![lxml](https://img.shields.io/badge/lxml-black?style=for-the-badge)
+![Loguru](https://img.shields.io/badge/loguru-black?style=for-the-badge)
 
-## Softwares
+## Tools and Utilities
+![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-black?style=for-the-badge&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm)
+![DataGrip](https://img.shields.io/badge/datagrip-black?style=for-the-badge&logo=datagrip)
+![iTerm2](https://img.shields.io/badge/iterm2-black?style=for-the-badge&logo=iterm2)
+![Traefik Proxy](https://img.shields.io/badge/Traefik_Proxy-black?style=for-the-badge&logo=traefik-proxy)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)
+![Prometheus](https://img.shields.io/badge/prometheus-black?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=grafana)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Gitee](https://img.shields.io/badge/gitee-black?style=for-the-badge&logo=gitee)
+![GitLab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)
+![Caddy](https://img.shields.io/badge/caddy-black?style=for-the-badge)
 
-<a href="https://code.visualstudio.com" target="_blank">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a>
-<a href="https://www.mysql.com" target="_blank">
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank">
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</a>
-<a href="https://www.docker.com" target="_blank">
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-</a>
-<a href="https://git-scm.com" target="_blank">
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-</a>
-<br/>
+## Operating Systems
+![Android](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)
+![iOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=ios)
+![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)
+![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos)
+![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)
+![Debian](https://img.shields.io/badge/debian-black?style=for-the-badge&logo=debian)
+![Alpine Linux](https://img.shields.io/badge/alpine_linux-black?style=for-the-badge&logo=alpine-linux)
+![Proxmox](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)
+![OpenWrt](https://img.shields.io/badge/openwrt-black?style=for-the-badge&logo=openwrt)
+![Kodi](https://img.shields.io/badge/kodi-black?style=for-the-badge&logo=kodi)
 
-## I’m currently learning ...
-
-<a href="https://vuejs.org/" target="_blank">
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank">
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</a>
+## Server Hosting Providers
+![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-black?style=for-the-badge&logo=microsoft-azure)
+![Hetzner](https://img.shields.io/badge/hetzner-black?style=for-the-badge&logo=hetzner)
+![Scaleway](https://img.shields.io/badge/scaleway-black?style=for-the-badge&logo=scaleway)
+![OVH](https://img.shields.io/badge/ovh-black?style=for-the-badge&logo=ovh)
