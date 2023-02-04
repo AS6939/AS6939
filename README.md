@@ -40,6 +40,7 @@ Hi there 👋
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Gitee](https://img.shields.io/badge/gitee-black?style=for-the-badge&logo=gitee)
 ![GitLab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)
+![Harbor](https://img.shields.io/badge/harbor-black?style=for-the-badge&logo=harbor)
 ![Caddy](https://img.shields.io/badge/caddy-black?style=for-the-badge)
 
 ## Operating Systems
