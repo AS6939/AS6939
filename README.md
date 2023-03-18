@@ -17,11 +17,11 @@ Hi there 👋
 ![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)
 ![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)
+![JSON Web Tokens](https://img.shields.io/badge/json_web_tokens-black?style=for-the-badge&logo=json-web-tokens)
 ![aiohttp](https://img.shields.io/badge/aiohttp-black?style=for-the-badge)
 ![httpx](https://img.shields.io/badge/httpx-black?style=for-the-badge)
 ![pydantic](https://img.shields.io/badge/pydantic-black?style=for-the-badge)
 ![lxml](https://img.shields.io/badge/lxml-black?style=for-the-badge)
-![JSON Web Tokens](https://img.shields.io/badge/json_web_tokens-black?style=for-the-badge&logo=json-web-tokens)
 ![Loguru](https://img.shields.io/badge/loguru-black?style=for-the-badge)
 
 ## Tools and Utilities
