@@ -11,6 +11,7 @@ Hi there 👋
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 
 ## Frameworks and Libraries
 ![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
@@ -20,6 +21,7 @@ Hi there 👋
 ![httpx](https://img.shields.io/badge/httpx-black?style=for-the-badge)
 ![pydantic](https://img.shields.io/badge/pydantic-black?style=for-the-badge)
 ![lxml](https://img.shields.io/badge/lxml-black?style=for-the-badge)
+![JSON Web Tokens](https://img.shields.io/badge/json_web_tokens-black?style=for-the-badge&logo=json-web-tokens)
 ![Loguru](https://img.shields.io/badge/loguru-black?style=for-the-badge)
 
 ## Tools and Utilities
