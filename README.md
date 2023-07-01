@@ -1,6 +1,6 @@
-<img align="right" alt="wky0211's Github stats" src="https://github-readme-stats.vercel.app/api?username=wky0211&show_icons=true&count_private=true">
+<img align="right" alt="AS6939's Github stats" src="https://github-readme-stats.vercel.app/api?username=AS6939&show_icons=true&count_private=true">
 
-# wky0211
+# AS6939
 
 Hi there 👋
 
