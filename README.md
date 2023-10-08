@@ -1,6 +1,6 @@
 <img align="right" alt="AS6939's Github stats" src="https://github-readme-stats.vercel.app/api?username=AS6939&show_icons=true&count_private=true">
 
-# AS6939
+# William Wong
 
 Hi there 👋
 
